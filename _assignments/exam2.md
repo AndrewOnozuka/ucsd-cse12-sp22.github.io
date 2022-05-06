@@ -27,5 +27,5 @@ from class notes or PAs.
 You can review the grading policy for exams in the [syllabus](https://ucsd-cse12-sp22.github.io/syllabus.html).
 
 ---
-**This exam will be conducted through gradescope through the [_Exam 2_](https://www.gradescope.com/courses/381276/assignments/2033007/submissions) assignment**
+**This exam will be conducted through gradescope through the [_Exam 2_](https://www.gradescope.com/courses/381276/assignments/2033007/) assignment**
 ---
