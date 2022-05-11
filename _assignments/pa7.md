@@ -117,13 +117,13 @@ The FileSystem class will be used to represent the entire structure of the file 
 
 A BST that uses the file name as the key and the `FileData` as the value.  
 
-![](https://i.imgur.com/sU5Fmov.png)
+![](https://i.imgur.com/sU5Fmov.png){:width="100%"}
 
 ##### `dateTree`
 
 A BST that uses the file date in a different format (format: yyyy/mm/dd) as the key and a list of FileData as the value. This list should keep track of the files in the order that they arrive in.   
 
-![](https://i.imgur.com/jXJqMJg.png)
+![](https://i.imgur.com/jXJqMJg.png){:width="100%"}
 
 
 
@@ -164,7 +164,7 @@ Note that since we are using yyyy/mm/dd as our date format now, you can use Java
 If the `name`, `dir`, or `date` is `null`, then do not add anything to the FileSystem.
 
 Follow this table for further clarification on when to add or update the trees
-![](https://i.imgur.com/5eCBBJ9.png)
+![](https://i.imgur.com/5eCBBJ9.png){:width="100%"}
 
 #### `public ArrayList<String> findFileNamesByDate(String date)`
 
@@ -180,14 +180,14 @@ Assume the given parameters are valid and non-null.
 
 Example: Let's call `filter("2021/01/20", "2021/02/02")` on a `FileSystem` with the following `dateTree`:   
 
-![](https://i.imgur.com/Ic1sTIw.png)
+![](https://i.imgur.com/Ic1sTIw.png){:width="100%"}
 
 
 
 
 It should return a **FileSystem** with a `dateTree` that looks like the following (note: there should be a populated `nameTree` with the same entries):   
 
-![](https://i.imgur.com/N1YIzHe.png)
+![](https://i.imgur.com/N1YIzHe.png){:width="100%"}
 
 
 
@@ -198,13 +198,13 @@ Assume the given parameter is valid and non-null.
 
 Example: Let's call `filter("mySam")` on a `FileSystem` with the following `nameTree`:  
 
-![](https://i.imgur.com/sU5Fmov.png)  
+![](https://i.imgur.com/sU5Fmov.png){:width="100%"}
 
 
 
 It should return a **FileSystem** with a `nameTree` that looks like the following (note: there should be a populated `dateTree` as well - it is not shown here):   
 
-![](https://i.imgur.com/AmAoKzW.png)
+![](https://i.imgur.com/AmAoKzW.png){:width="100%"}
 
 
 #### `public List<String> outputNameTree()`
