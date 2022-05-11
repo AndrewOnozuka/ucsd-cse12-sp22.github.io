@@ -294,7 +294,7 @@ The following files will be graded on style:
 * FileSystem.java
 * FileSystemTest.java
 
-To find the full style guideline, follow this link: https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing  
+To find the full style guideline, follow this link: [https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing](https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing  )
 
 All guidelines that we will be following this quarter are marked in the Style Guidelines document. These are required and will be graded. 
 
