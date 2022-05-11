@@ -187,7 +187,7 @@ Example: Let's call `filter("2021/01/20", "2021/02/02")` on a `FileSystem` with 
 
 It should return a **FileSystem** with a `dateTree` that looks like the following (note: there should be a populated `nameTree` with the same entries):   
 
-![](https://i.imgur.com/N1YIzHe.png){:width="75%"}
+![](https://i.imgur.com/N1YIzHe.png){:width="50%"}
 
 
 
@@ -204,7 +204,7 @@ Example: Let's call `filter("mySam")` on a `FileSystem` with the following `name
 
 It should return a **FileSystem** with a `nameTree` that looks like the following (note: there should be a populated `dateTree` as well - it is not shown here):   
 
-![](https://i.imgur.com/AmAoKzW.png){:width="75%"}
+![](https://i.imgur.com/AmAoKzW.png){:width="50%"}
 
 
 #### `public List<String> outputNameTree()`
