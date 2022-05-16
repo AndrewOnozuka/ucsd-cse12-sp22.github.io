@@ -40,6 +40,8 @@ Videos (to watch **before** your problem session on May 17):
 
 ## Handout
 
+<iframe src="https://drive.google.com/file/d/1-3FjcNoPdveFqIr2smiBDhOEm_3Bf3Uf/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Notes & Files from Live-Lecture
 
 [Notes](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-15){:target="_blank"}
