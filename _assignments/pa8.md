@@ -15,7 +15,7 @@ This assignment will teach you how to implement a Heap using Dijkstra's Algorith
 
 This PA is due on ** **Tuesday, May 31 at 10:00pm** **  
 
-Link to PA Test Cases: https://hackmd.io/@gadjoian/SJPgQRIz
+Link to PA Test Cases: [https://hackmd.io/@gadjoian/SJPgQRIz](https://hackmd.io/@gadjoian/SJPgQRIz)
 
 Note that for MazeSolver tests, your output doesn't have to be exactly the same as in the document above. However, your output does need to have the same cost as the reference output.
 
@@ -142,7 +142,7 @@ The goal now is not to find the shortest possible path, but rather to minimize t
 ```
 
 ## Testing
-**All test case descriptions available here: https://hackmd.io/@gadjoian/SJPgQRIz**
+**All test case descriptions available here: [https://hackmd.io/@gadjoian/SJPgQRIz](https://hackmd.io/@gadjoian/SJPgQRIz)**
 ### Heap - HeapTest.java
 In the starter code, we provided the file HeapTest.java to unit test your implementation. **Note**: For this PA, your unit tests will be graded for completion only (i.e. at least 1 test written), however, we **strongly** encourage you to thoroughly test every public method in your class. You are required to have at least one unit test written by yourself. We have provided the descriptions of the tests we'll use to grade your code, so we recommend you incorporate those tests into your HeapTest.java.
 
@@ -175,7 +175,7 @@ The following files will be graded on style:
 * MazeSolver.java
 * TestSolvers.java
 
-To find the full style guideline, follow this link: https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing  
+To find the full style guideline, follow this link: [https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing](https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing)
 
 All guidelines that we will be following this quarter are marked in the Style Guidelines document. These are required and will be graded.
 
