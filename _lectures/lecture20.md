@@ -1,11 +1,11 @@
 ---
 layout: with-sidebar
 index: 20
-name: Review
+name: Review/Wrapup
 released-on: "2022-06-02"
 ---
 
-## Problem Session 20 – Review	
+## Problem Session 20 – Review/Wrapup	
 
 _{{ page.released-on }}_  
 
