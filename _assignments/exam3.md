@@ -52,7 +52,7 @@ If you are having issues with getting the autograder to run successfully, you ma
 
 If your submission passes the autograder, then you should see output similar to:
 
-<img src="autograder_success.png">
+<img src="autograder_success.png">{:width="100%"}
 
 Be aware that the Compile check does not check for code correctness, but rather that your code compiles. Additionally, if your code errors or throws exceptions unexpectedly, the autograder will not grade your submission. This will result in 0 points being given for that particular task.
 
