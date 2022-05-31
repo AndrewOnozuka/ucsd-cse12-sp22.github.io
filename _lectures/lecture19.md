@@ -17,6 +17,8 @@ Bring your questions.
 
 ## Handout
 
+No handout.
+
 ## Notes & Files from Live-Lecture
 
 [Notes](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-19){:target="_blank"}
