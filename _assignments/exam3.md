@@ -97,7 +97,7 @@ The `getMaxOfSection` method will return a student who scored maximum score in a
 Make sure to define a Student comparator and HashMap object in your FileReader constructor.
 
 ### Task 1.3 HashMap
-You are required the implement the DefaultMap interface methods in the `MyHashMap.java`. It is similar to PA6, but you are required to use a HaspMap instead of ArrayList for the buckets. 
+You are required the implement the DefaultMap interface methods in the `MyHashMap.java`. It is similar to PA6, but you are required to use a MaxHeap  instead of ArrayList for the buckets. The get() method should return the peek() value of the bucket.
 Make sure to write proper hashFunction to map the Student to the bucket (section of the student). 
 You are not required to implement reshash functionality for this Exam. You can consider a fixed size HaspMap of around 10 buckets, as the number of sections is limited. So loadfactor is not needed for the exam.
 
