@@ -13,7 +13,7 @@ released-on: "2022-06-07"
 
 This page details a take-home exam that you will complete over the next few
 days. You can’t communicate with anyone about the content of the assignment
-until the exam has concluded. **DO NOT** post clarification or other similar questions as staff will not be answering these types of questions during this time period. If there are broken links or otherwise strange parts of the writeup, you may post these concerns on piazza. If you have technical trouble creating a screencast (detailed below) feel free to reach out for assistance.
+until the exam has concluded. **DO NOT** post clarification or other similar questions as staff will not be answering these types of questions during this time period. If there are broken links or otherwise strange parts of the writeup, you may post these concerns on piazza. 
 
 Do not use any online service other than Piazza to ask questions about the
 exam. Do not search for, solicit, or use solutions to the problems that
